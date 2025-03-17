@@ -1,5 +1,5 @@
-# parrot-zsh
-Parrot auto-suggestion zsh shell 
+# my-zsh
+My Custom auto-suggestion zsh shell 
 <center><img src="./poc.png"></center>
 # Parrot Os zsh auto-suggestion
 

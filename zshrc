@@ -1,5 +1,5 @@
-# this zshrc is modded by aymensecurity
-#https://github.com/aymensecurity
+# this zshrc is modded by vulncrax
+#https://github.com/vulncrax
 # ~/.zshrc file for zsh interactive shells.
 # see /usr/share/doc/zsh/examples/zshrc for examples
 
@@ -257,4 +257,3 @@ fi
 if [ -f /etc/zsh_command_not_found ]; then
     . /etc/zsh_command_not_found
 fi
-cd

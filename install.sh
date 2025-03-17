@@ -11,10 +11,10 @@ echo -n $CYAN "
 |||||||||||||||||||||||||||||||||||||||||||||||||
 $GREEN|                                               |
 $MADENITA|                                               |
-$RED|                PARROT ZSH                     |
+$RED|                    MY ZSH                     |
 $ORANGE|                                               |
 $BLUE|                                               |
-$MAGENTA|                     tiktok.com/@aymensecurity |
+$MAGENTA|                          @VULNCRAX            |
 $CYAN|||||||||||||||||||||||||||||||||||||||||||||||||
 "
 echo $MAGENTA"================================================="
